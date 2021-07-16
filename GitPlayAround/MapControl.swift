@@ -17,4 +17,7 @@ class MapControl: UIView {
     }
     */
 
+    func sayHello() {
+      print("Hello from MapForItinerary")
+    }
 }
