@@ -16,6 +16,7 @@
 		9FE617A226A14982009F5CBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FE617A026A14982009F5CBA /* LaunchScreen.storyboard */; };
 		9FE617AD26A14983009F5CBA /* GitPlayAroundTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE617AC26A14983009F5CBA /* GitPlayAroundTests.swift */; };
 		9FE617B826A14983009F5CBA /* GitPlayAroundUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE617B726A14983009F5CBA /* GitPlayAroundUITests.swift */; };
+		9FE617C926A171BA009F5CBA /* MapControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE617C826A171BA009F5CBA /* MapControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9FE617B326A14983009F5CBA /* GitPlayAroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitPlayAroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE617B726A14983009F5CBA /* GitPlayAroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitPlayAroundUITests.swift; sourceTree = "<group>"; };
 		9FE617B926A14983009F5CBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FE617C826A171BA009F5CBA /* MapControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9FE6179226A14980009F5CBA /* AppDelegate.swift */,
 				9FE6179426A14980009F5CBA /* SceneDelegate.swift */,
 				9FE6179626A14980009F5CBA /* ViewController.swift */,
+				9FE617C826A171BA009F5CBA /* MapControl.swift */,
 				9FE6179826A14980009F5CBA /* Main.storyboard */,
 				9FE6179E26A14982009F5CBA /* Assets.xcassets */,
 				9FE617A026A14982009F5CBA /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				9FE6179726A14980009F5CBA /* ViewController.swift in Sources */,
 				9FE6179D26A14980009F5CBA /* GitPlayAround.xcdatamodeld in Sources */,
+				9FE617C926A171BA009F5CBA /* MapControl.swift in Sources */,
 				9FE6179326A14980009F5CBA /* AppDelegate.swift in Sources */,
 				9FE6179526A14980009F5CBA /* SceneDelegate.swift in Sources */,
 			);
